@@ -1,8 +1,7 @@
 # To-do List
 
 ```
-- Tailwind CSS
-- React, React Toastify, React Icons
+Tailwind, React, React Toastify, React Icons
 ```
 
 ### <a href="https://react-to-do-list-jet.vercel.app/">Live Demo</a>
